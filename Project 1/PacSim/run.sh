@@ -1,0 +1,1 @@
+java -cp .:PacSimLib.jar PacSimUCS.java tsp-tiny
